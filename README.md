@@ -1,4 +1,4 @@
-# Git Test Repository
+# Git_Test
 
 This repository was created as part of **The Odin Project - Foundations Course**.  
 Its purpose is to practice the basics of **Git** and **GitHub** for version control.
