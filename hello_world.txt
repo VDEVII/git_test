@@ -1,0 +1,10 @@
+Greetings!
+  
+This is my first test file in the git_test repository.  
+
+I’m using it to practice:  
+- Creating and editing files  
+- Tracking changes with Git  
+- Staging and committing  
+- Pushing to GitHub  
+
